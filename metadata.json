@@ -1,0 +1,8 @@
+{
+  "name": "Remix GREENLINE",
+  "description": "The Pakistan Market, Decoded. Stock market discovery and AI-powered financial intelligence for the Pakistan Stock Exchange (PSX).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
